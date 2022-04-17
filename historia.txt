@@ -1,9 +1,7 @@
-Esta es la historia de Carlos
+Esta es la historia de Mauricio Reyes.
 
-Carlos tiene 24 años y nació en México
+Mauricio tiene 24 años y nació en México.
 
-Carlos García tiene 52 años y nació en una borrachera muy divertida.
-
-Cómo les ha ido en el proyecto?, alguien que me cuente de que trata, estoy perdido :/
+Carlos García es una persona que contribuye a este proyecto open source y nació en una borrachera muy divertida.
 
 Mañana hablaremos de su vida laborar, traer palomitas.
