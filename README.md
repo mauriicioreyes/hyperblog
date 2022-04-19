@@ -16,6 +16,8 @@ Un blog increible para el [curso de Git y GitHub](https://platzi.com/cursos/git-
 
 * Somos un curso bien chido para aprender de todo un poco 👋🏽
 
+* Cantando sin parar, dentro de un readmeeee 🎶
+
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo.
 Ve al [curso de Git y GitHub](https://platzi.com/cursos/git-github/ "amonos a ver el curso").
 
